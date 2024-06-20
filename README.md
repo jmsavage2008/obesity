@@ -2,6 +2,6 @@
 
 
 Data Sources:
-Cost of Living[https://meric.mo.gov/data/cost-living-data-series]
+Cost of Living(https://meric.mo.gov/data/cost-living-data-series)
 
 
